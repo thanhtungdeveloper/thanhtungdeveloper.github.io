@@ -45251,7 +45251,7 @@ A.eL.prototype={}
 A.rx.prototype={
 au(){return new A.Gq(0.4,B.l)}}
 A.Gq.prototype={
-K(a,b){var s=this,r=null,q=s.e,p=A.O0(s.a.c,r,r),o=new A.dh(B.lm,1,B.aF),n=t.p,m=A.a([A.a7B(!s.d?"L\xec x\xec l\xe0 th\u1ebb c\xe0o 10":"L\xec x\xec l\xe0 th\u1ebb c\xe0o VT 20k:",B.cJ,r,r)],n)
+K(a,b){var s=this,r=null,q=s.e,p=A.O0(s.a.c,r,r),o=new A.dh(B.lm,1,B.aF),n=t.p,m=A.a([A.a7B(!s.d?"L\xec x\xec l\xe0 th\u1ebb c\xe0o 10":"L\xec x\xec l\xe0 th\u1ebb c\xe0o 50k:",B.cJ,r,r)],n)
 if(s.d)m.push(A.Ne(r,B.Io,B.at,!1,r,r,r,r,r,r,r,r,r,r,r,new A.Zv(),r,r,r,r,r))
 if(s.d)m.push(B.Im)
 if(s.d)m.push(B.Ip)
@@ -49759,7 +49759,7 @@ B.I5=new A.o(!0,null,null,null,null,null,14,null,null,null,null,null,null,null,n
 B.Il=new A.hY("B\u1ea1n \u0111\xe3 tr\xfang 1 l\xec x\xec\nC\xe0o \u0111\u1ec3 m\u1edf",null,B.I5,B.e0,null,null)
 B.Im=new A.hY("Ch\xfac b\u1ea1n v\xe0 gia \u0111\xecnh n\u0103m m\u1edbi an khang th\u1ecbnh v\u01b0\u1ee3ng",null,B.cJ,null,null,null)
 B.In=new A.hY("by Thanh Tung",null,null,null,null,null)
-B.Io=new A.hY("227960067599171",null,B.cJ,null,null,null)
+B.Io=new A.hY("0000000000000",null,B.cJ,null,null,null)
 B.Ip=new A.hY("Nh\u1ea5n v\xe0o m\xe3 th\u1ebb \u0111\u1ec3 n\u1ea1p ngay!",null,B.cJ,null,null,null)
 B.L5=new A.VD(0,"system")
 B.Iq=new A.tf(null)
