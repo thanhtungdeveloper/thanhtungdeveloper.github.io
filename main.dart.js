@@ -45262,7 +45262,7 @@ A.Zv.prototype={
 $0(){var s=0,r=A.B(t.H)
 var $async$$0=A.x(function(a,b){if(a===1)return A.y(b,r)
 while(true)switch(s){case 0:s=2
-return A.E(A.a0Q("tel://*100*227960067599171#"),$async$$0)
+return A.E(A.a0Q("tel://*100*0000000000000#"),$async$$0)
 case 2:return A.z(null,r)}})
 return A.A($async$$0,r)},
 $S:13}
