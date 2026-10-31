@@ -4,7 +4,7 @@ title: GPS Go Terms of Service
 
 # GPS Go Terms of Service
 
-Effective date: October 29, 2026
+Effective date: October 31, 2026
 
 By installing or using GPS Go ("the app"), you agree to these terms.
 
@@ -56,4 +56,4 @@ These terms may be updated. The new version will be posted at this address with 
 
 ## 10. Contact
 
-thanhtung0316@gmail.com
+tungthanh.dev@gmail.com

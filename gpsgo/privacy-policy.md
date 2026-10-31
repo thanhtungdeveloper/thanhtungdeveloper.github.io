@@ -4,7 +4,7 @@ title: GPS Go Privacy Policy
 
 # GPS Go Privacy Policy
 
-Effective date: October 29, 2026
+Effective date: October 31, 2026
 
 GPS Go ("the app") lets you set your Android device's location to a point you choose, using Android's built-in mock location feature. This policy explains what data the app uses and where it goes.
 
@@ -12,7 +12,7 @@ GPS Go ("the app") lets you set your Android device's location to a point you ch
 
 - GPS Go has no accounts, no analytics and no crash reporting.
 - The free version shows ads from Google AdMob. Premium has no ads.
-- The developer does not run a server and does not receive any of your data.
+- The developer does not run a server and does not receive any of your data, unless you email support.
 - Some features send data directly from your device to Google or OpenStreetMap, as described below.
 
 ## Data stored on your device
@@ -77,6 +77,10 @@ These services handle data under their own policies:
 
 If you turn on "Allow external broadcast control" in Settings, other apps on your device can start, stop and move the mocked location. It is off by default. No data is sent off your device by this feature.
 
+## Contacting support
+
+If you email support, including with the "Contact priority support" button for Premium users, the developer receives your email address, your message, and the details the app adds to the email: app version, Android version and device model. They are used only to answer you and are not shared. The email is sent by your own email app, and you can edit or remove those details before sending.
+
 ## Children
 
 GPS Go is not directed at children under 13 and does not knowingly collect data from them.
@@ -91,4 +95,4 @@ If this policy changes, the new version will be posted at this address with a ne
 
 ## Contact
 
-Questions about this policy: thanhtung0316@gmail.com
+Questions about this policy: tungthanh.dev@gmail.com
