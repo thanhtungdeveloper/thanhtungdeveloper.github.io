@@ -9,4 +9,4 @@ GPS Go sets your Android device's location to a point you choose, using Android'
 - [Privacy Policy](privacy-policy.md)
 - [Terms of Service](terms-of-service.md)
 
-Contact: thanhtung0316@gmail.com
+Contact: tungthanh.dev@gmail.com
